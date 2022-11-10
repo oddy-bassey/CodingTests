@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62085603-5d85-432e-a05a-197788a37928" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HackerRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vanhack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +45,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Luxoft">
+  <component name="RunManager" selected="Application.HackerRank">
     <configuration name="Aubay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aubay" />
+      <module name="CodingTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank" />
       <module name="CodingTests" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HackerRank" />
         <item itemvalue="Application.Luxoft" />
         <item itemvalue="Application.Aubay" />
         <item itemvalue="Application.SideroTest" />
@@ -86,6 +96,11 @@
       <workItem from="1663980261527" duration="3937000" />
       <workItem from="1664258205205" duration="609000" />
       <workItem from="1664430067818" duration="2796000" />
+      <workItem from="1665967522828" duration="247000" />
+      <workItem from="1667848398819" duration="5590000" />
+      <workItem from="1667903512253" duration="6000" />
+      <workItem from="1667918546707" duration="18000" />
+      <workItem from="1667929921389" duration="1239000" />
     </task>
     <servers />
   </component>
@@ -103,6 +118,36 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
