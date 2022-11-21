@@ -91,9 +91,101 @@ public class HackerRank {
         }
     }
 
+    public static String findNumber(List<Integer> arr, int k) {
+        // Write your code here
+        String response = "NO";
+        for (Integer integer : arr) {
+            if(integer == k) {
+                response = "YES";
+                break;
+            }
+        }
+
+        return response;
+    }
+
+    public static List<Integer> oddNumbers(int l, int r) {
+        // Write your code here
+        List<Integer> oddNumbers = new LinkedList<>();
+        for(l=l; l<=r ;l++){
+            if((l%2)>0){
+                oddNumbers.add(l);
+            }
+        }
+
+        return oddNumbers;
+    }
+
     public static void main(String[] args){
         //closestNumbers(Arrays.asList(4,4,-2,-1,3));
-
+        System.out.println(findNumber(Arrays.asList(1,2,3,4,5), 1));
     }
-}
 
+    class Chat{
+        private List<String> members;
+        private List<Integer> files;
+        private Map<Integer, String> message;
+
+        public Chat(){
+            this.members = new ArrayList<>();
+            this.files = new ArrayList<>();
+            this.message = new HashMap<>();
+        }
+
+        public void add(String[] names){
+            this.members.addAll(Arrays.asList(names));
+        }
+        public void add(int[] ids){
+            for (int id : ids) {
+                this.files.add(id);
+            }
+        }
+        public void add(int id, String message){
+            this.message.put(id, message);
+        }
+
+        public void remove(String[] names){
+            for (String name : names) {
+                boolean isDeleted = false;
+
+                isDeleted = this.members.remove(name);
+                if(!isDeleted){
+                    System.out.printf("Member with name %s does not exist%n", name);
+                }
+            }
+        }
+        public void remove(int[] ids){
+            for (int id : ids) {
+                boolean isDeleted = false;
+
+                isDeleted = this.files.remove(Integer.valueOf(id));
+                if(!isDeleted){
+                    System.out.printf("File with id %d does not exist%n", id);
+                }
+            }
+        }
+        public void remove(int id){
+            Optional<String> value = Optional.ofNullable(this.message.remove(id));
+            if (!value.isPresent()){
+                System.out.printf("Message with id %d does not exist%n", id);
+            }
+        }
+
+        void printConversation(){
+            System.out.printf("Total number of members in the conversation are %d%n", this.members.size());
+            StringBuilder names = new StringBuilder();
+            for (String member : this.members) {
+                names.append(member).append(" ");
+            }
+            System.out.printf("The names of these members are %s%n", names);
+
+            System.out.printf("Total number of files in the conversation are %d %n", this.files.size());
+            StringBuilder messages = new StringBuilder();
+            for (String msg : this.message.values()) {
+                messages.append(String.format("'%s'", msg)).append(" ");
+            }
+            System.out.printf("The messages in the conversation are %s%n", messages);
+        }
+    }
+
+}
