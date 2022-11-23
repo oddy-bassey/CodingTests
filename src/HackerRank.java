@@ -116,6 +116,29 @@ public class HackerRank {
         return oddNumbers;
     }
 
+    public static String getString(String s) {
+        // Write your code here
+        StringBuilder emptyString = new StringBuilder();
+        PriorityQueue<Character> priorityQueue = new PriorityQueue<>();
+        int i;
+
+        for(i=0; i<s.length(); i++){
+            priorityQueue.add(s.charAt(i));
+        }
+
+        while(!priorityQueue.isEmpty()){
+            emptyString.append(priorityQueue.peek());
+            priorityQueue.remove();
+
+            if(i<s.length()){
+                priorityQueue.add(s.charAt(i));
+            }
+            i++;
+        }
+
+        return emptyString.toString();
+    }
+
     public static void main(String[] args){
         //closestNumbers(Arrays.asList(4,4,-2,-1,3));
         System.out.println(findNumber(Arrays.asList(1,2,3,4,5), 1));
@@ -187,5 +210,4 @@ public class HackerRank {
             System.out.printf("The messages in the conversation are %s%n", messages);
         }
     }
-
 }
