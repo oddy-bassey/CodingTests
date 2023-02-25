@@ -1,3 +1,5 @@
+package hackerrank;
+
 import java.util.*;
 import java.util.stream.Collectors;
 
