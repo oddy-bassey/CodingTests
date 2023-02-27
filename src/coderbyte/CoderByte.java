@@ -1,3 +1,5 @@
+package coderbyte;
+
 public class CoderByte {
 
     public static String WordSplit(String[] strArr) {
