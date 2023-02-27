@@ -14,7 +14,7 @@ public class AvenueCode {
     private static final String BASE_URL = "https://jsonmock.hackerrank.com/api/universities?page=";
     private static int maxCount = 0;
     private static String maxUniversity = "";
-    private static StringBuilder urlBuilder;
+    private static StringBuffer urlBuilder;
     private static Map<String, Integer> universityCount = new HashMap<>();
     /*
      * Complete the 'highestInternationalStudents' function below.
@@ -38,7 +38,7 @@ public class AvenueCode {
         for (int i=1; i<=20; i++) {
             try {
                 // setting up the http GET request
-                urlBuilder = new StringBuilder(BASE_URL);
+                urlBuilder = new StringBuffer(BASE_URL  );
                 URL url = new URL(urlBuilder.append(i).toString());
                 HttpURLConnection connection = (HttpURLConnection) url.openConnection ();
                 connection.setRequestMethod("GET");
@@ -66,12 +66,12 @@ public class AvenueCode {
         }
     }
 
-    public static void computeMaxUniversityOccurrenceByCities(String firstCity, String secondCity, String respoonse) {
+    public static void computeMaxUniversityOccurrenceByCities(String firstCity, String secondCity, String response) {
 
-        final String regex = "\"([^\"]+)\":[\"]*([^,^\\}^\"]+)";
+        final String regex = "\"([^\"]+)\":[\"]*([^,^\\}^\"]+)"; // "key" : "value"
 
         final Pattern pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
-        final Matcher matcher = pattern.matcher(respoonse);
+        final Matcher matcher = pattern.matcher(response);
 
         String university = "";
         String city = "";
