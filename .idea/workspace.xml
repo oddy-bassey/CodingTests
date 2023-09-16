@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62085603-5d85-432e-a05a-197788a37928" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/amazon/BSTHeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Luxoft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Luxoft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/BSTHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/BST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BSTHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="amazon.BSTHeight" />
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.BST" />
       <module name="CodingTests" />
       <extension name="coverage">
         <pattern>
@@ -199,7 +196,7 @@
       <workItem from="1694633812362" duration="4234000" />
       <workItem from="1694665966089" duration="99000" />
       <workItem from="1694895174215" duration="5000" />
-      <workItem from="1694895458641" duration="1904000" />
+      <workItem from="1694895458641" duration="2829000" />
     </task>
     <servers />
   </component>
@@ -289,9 +286,19 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/amazon/BSTHeight.java</url>
+          <url>file://$PROJECT_DIR$/src/amazon/BST.java</url>
           <line>9</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/BST.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/BST.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

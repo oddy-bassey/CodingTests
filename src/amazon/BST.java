@@ -1,8 +1,11 @@
 package amazon;
 
-public class BSTHeight {
+import java.util.LinkedList;
+
+public class BST {
     public static void main(String[] args) {
         System.out.println("Height of the BST is: "+getHeight(getTree()));
+        levelOrder(getTree());
     }
 
     static int getHeight(Node node) {
@@ -13,6 +16,22 @@ public class BSTHeight {
         int rightNodeHeight = getHeight(node.right);
 
         return Math.max(leftNodeHeight, rightNodeHeight)+1;
+    }
+
+    static void levelOrder(Node root) {
+
+        if(root == null) return;
+
+        LinkedList<Node> queue = new LinkedList<>();
+        queue.add(root);
+
+        while(!queue.isEmpty()) {
+            Node currentNode = queue.poll();
+
+            System.out.print(currentNode.data+" ");
+            if(currentNode.left != null) queue.add(currentNode.left);
+            if(currentNode.right != null) queue.add(currentNode.right);
+        }
     }
 
     static Node getTree() {
