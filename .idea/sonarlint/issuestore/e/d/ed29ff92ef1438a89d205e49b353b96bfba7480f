@@ -1,0 +1,18 @@
+
+0
+java:S1220""Move this file to a named package.
+P
+java:S1854":Remove this useless assignment to local variable "result".(šß›Ğ
+G
+java:S1659	",Declare "tempTotalScore" on a separate line.(ĞÑµúÿÿÿÿ
+T
+java:S2130#"9Use "Integer.parseInt" for this string-to-int conversion.(çÂ’Øÿÿÿÿÿ
+N
+java:S1854."8Remove this useless assignment to local variable "data".(êÕŸ›
+?
+java:S1481.")Remove this unused "data" local variable.(êÕŸ›
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Ô¿™¹
+2
+java:S11160"Remove this empty statement.(Ô¿™¹
+@
+java:S11973"*Move the array designators [] to the type.(ëÑ¼

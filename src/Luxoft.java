@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Luxoft {
+public class  Luxoft {
 
     // {2,3,5,7,9,10} {1,2,4,6,7,10,20,22,24}
     public static void main(String[] args){
