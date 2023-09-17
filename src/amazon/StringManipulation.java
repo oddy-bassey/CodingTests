@@ -18,8 +18,8 @@ public class StringManipulation {
                 if(stack.isEmpty()) return "NO";
 
                 char openBracket = stack.pop();
-                if (openBracket == '{' && c != '}' || openBracket == '(' && c!= ')' ||
-                        openBracket == '[' && c != ']') {
+                if (openBracket == '{' && c != '}' || openBracket == '(' && c != ')'
+                        || openBracket == '[' && c != ']') {
                     return "NO";
                 }
             }
