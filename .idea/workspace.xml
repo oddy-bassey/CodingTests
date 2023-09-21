@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62085603-5d85-432e-a05a-197788a37928" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/minMaxSum/MinMaxSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/staircase/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrank/staircase/Staircase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank/minMaxSum/MinMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrank/minMaxSum/MinMaxSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hackerrank.minMaxSum.Solution">
+  <component name="RunManager" selected="Application.MinMaxSum">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -126,6 +125,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinMaxSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.minMaxSum.MinMaxSum" />
+      <module name="CodingTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.minMaxSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SDEAssessment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="amazon.maxteams.SDEAssessment" />
       <module name="CodingTests" />
@@ -152,22 +164,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hackerrank.minMaxSum.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.minMaxSum.Solution" />
-      <module name="CodingTests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.minMaxSum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hackerrank.minMaxSum.Solution" />
+        <item itemvalue="Application.MinMaxSum" />
         <item itemvalue="Application.Staircase" />
         <item itemvalue="Application.SDEAssessment" />
         <item itemvalue="Application.Assessment" />
@@ -217,7 +216,7 @@
       <workItem from="1694895458641" duration="61849000" />
       <workItem from="1695198134940" duration="1019000" />
       <workItem from="1695214201050" duration="609000" />
-      <workItem from="1695307391856" duration="2587000" />
+      <workItem from="1695307391856" duration="3020000" />
     </task>
     <servers />
   </component>

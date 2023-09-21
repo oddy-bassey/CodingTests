@@ -3,6 +3,7 @@ package hackerrank.minMaxSum;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.math.BigInteger;
 import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
@@ -20,8 +21,8 @@ class Result {
 
     public static void miniMaxSum(List<Integer> arr) {
         // Write your code here
-        int minSUm = 0;
-        int maxSum = 0;
+        BigInteger minSUm = BigInteger.valueOf(0);
+        BigInteger maxSum = BigInteger.valueOf(0);
         int sumCount = 0;
 
         PriorityQueue<Integer> minQueue = new PriorityQueue<>();
@@ -33,7 +34,7 @@ class Result {
         while (!minQueue.isEmpty()) {
             if(sumCount == 4) break;
 
-            minSUm += minQueue.poll();
+            minSUm = minSUm.add(BigInteger.valueOf(minQueue.poll()));
             sumCount++;
         }
 
@@ -41,11 +42,11 @@ class Result {
         while (!maxQueue.isEmpty()) {
             if(sumCount == 4) break;
 
-            maxSum += maxQueue.poll();
+            maxSum = maxSum.add(BigInteger.valueOf(maxQueue.poll()));
             sumCount++;
         }
 
-        System.out.println(minSUm + "  " + maxSum);
+        System.out.println(minSUm + " " + maxSum);
     }
 
 }
