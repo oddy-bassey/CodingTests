@@ -1,0 +1,16 @@
+
+]
+java:S2184%"BCast one of the operands of this division operation to a "double".( Ä¾úıÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜“ú
+E
+java:S1659
+"*Declare "searchString" on a separate line.(¨×ï¼ıÿÿÿÿ
+E
+java:S1481"/Remove this unused "startIndex" local variable.(İÕ¤Ö
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¡ü½şÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(êõİ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.( Ä¾úıÿÿÿÿ
+@
+java:S2185%"%Remove this silly call to "Math.ceil"( Ä¾úıÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(¾¼Áï
+Q	java:S125+"<This block of commented-out lines of code should be removed.(ÅÉ²

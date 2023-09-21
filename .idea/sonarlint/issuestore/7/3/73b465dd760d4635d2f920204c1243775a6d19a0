@@ -1,0 +1,20 @@
+
+n
+java:S1104†"PMake left a static final constant or non-public and provide accessors if needed.(ó÷ÔÄ8¾ïı§ª1
+o
+java:S1104‡"QMake right a static final constant or non-public and provide accessors if needed.(Ö¢è¥8¾ïı§ª1
+s
+java:S1104ˆ"PMake data a static final constant or non-public and provide accessors if needed.(ÅÖÔ´ùÿÿÿÿ8—€¨ª1
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ã€¨ª1
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(ç‘›·şÿÿÿÿ8Ã€¨ª1
+^	java:S125š"<This block of commented-out lines of code should be removed.(­òºÍşÿÿÿÿ8Æ€¨ª1
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8çç‡¨ª1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8çç‡¨ª1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8çç‡¨ª1
+b
+java:S1128"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âşÿÿÿÿ8çç‡¨ª1
+\
+java:S1128	"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8çç‡¨ª1

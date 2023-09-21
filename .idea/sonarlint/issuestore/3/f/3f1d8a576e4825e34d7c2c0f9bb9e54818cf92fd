@@ -1,0 +1,13 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—èĞàüÿÿÿÿ8úîª1
+|
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "isFound".(× æ8Ÿúîª1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³º€Í8­úîª1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—èĞàüÿÿÿÿ8®úîª1
+L
+java:S1197"*Move the array designators [] to the type.(—èĞàüÿÿÿÿ8®úîª1
+T
+java:S1854)"7Remove this useless assignment to local variable "mid".(¢º‚µ8¯úîª1
+T
+java:S1854,"7Remove this useless assignment to local variable "mid".(øŸ­ 8¯úîª1
+]	java:S1257"<This block of commented-out lines of code should be removed.(ğÙø„ùÿÿÿÿ8°úîª1

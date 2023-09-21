@@ -1,0 +1,18 @@
+
+[
+java:S1854">Remove this useless assignment to local variable "lowestTemp".(â‰áê8öµšëª1
+[
+java:S1854">Remove this useless assignment to local variable "isNegative".(©£Õ8ÉË“ëª1
+`
+java:S1854">Remove this useless assignment to local variable "lowestTemp".(ØÄäæşÿÿÿÿ8öµšëª1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(ğÙø„ùÿÿÿÿ8¹Ôüêª1
+Q
+java:S1481"/Remove this unused "isNegative" local variable.(¤®–÷ıÿÿÿÿ8ÉË“ëª1
+L
+java:S1481"/Remove this unused "lowestTemp" local variable.(â‰áê8÷µšëª1
+L
+java:S1197 "*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ºÔüêª1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ó£¹ÿÿÿÿÿ8¼Ôüêª1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(’àÑ“8¼Ôüêª1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ú…‡ì8¼Ôüêª1
