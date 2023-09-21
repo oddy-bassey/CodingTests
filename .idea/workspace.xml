@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62085603-5d85-432e-a05a-197788a37928" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/staircase/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/minMaxSum/MinMaxSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/staircase/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank/staircase/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrank/staircase/Staircase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +35,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/revoltcode/Documents/IdeaProjects/CodingTests/src/amazon/maxteams&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/revoltcode/Documents/IdeaProjects/CodingTests/src/hackerrank/staircase",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hackerrank/staircase" />
       <recent name="$PROJECT_DIR$/src/amazon/maxteams" />
       <recent name="$PROJECT_DIR$/src/mobilise/tempertaure" />
       <recent name="$PROJECT_DIR$/src/amazon/testcases/swapnodes" />
@@ -68,7 +69,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.hackerrank.minMaxSum.Solution">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -138,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.staircase.Solution" />
+    <configuration name="Staircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.staircase.Staircase" />
       <module name="CodingTests" />
       <extension name="coverage">
         <pattern>
@@ -151,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="amazon.swapnodes.SwapNodes" />
+    <configuration name="hackerrank.minMaxSum.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.minMaxSum.Solution" />
       <module name="CodingTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="amazon.maxteams.*" />
+          <option name="PATTERN" value="hackerrank.minMaxSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.hackerrank.minMaxSum.Solution" />
+        <item itemvalue="Application.Staircase" />
         <item itemvalue="Application.SDEAssessment" />
         <item itemvalue="Application.Assessment" />
         <item itemvalue="Application.LowestTemperature" />
-        <item itemvalue="Application.SwapNodes" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +217,7 @@
       <workItem from="1694895458641" duration="61849000" />
       <workItem from="1695198134940" duration="1019000" />
       <workItem from="1695214201050" duration="609000" />
-      <workItem from="1695307391856" duration="645000" />
+      <workItem from="1695307391856" duration="2587000" />
     </task>
     <servers />
   </component>
@@ -492,6 +493,11 @@
           <url>file://$PROJECT_DIR$/src/amazon/maxteams/SDEAssessment.java</url>
           <line>78</line>
           <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerrank/minMaxSum/MinMaxSum.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="143" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
