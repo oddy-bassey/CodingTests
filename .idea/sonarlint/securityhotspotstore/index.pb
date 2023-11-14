@@ -21,3 +21,13 @@ M
 src/amazon/RunningMedian.java,6/c/6c6062e5bb6cb8c89a44fa45eb66ac77e37517c1
 Y
 )src/mobilise/tempertaure/Test_3_input.txt,8/9/89816ab65450058c530964ba5ba2907895fffd2a
+Y
+)src/mobilise/tempertaure/Test_1_input.txt,3/b/3b483e8ea918877b9cd303294b507d624b6bf744
+Y
+)src/mobilise/tempertaure/Test_2_input.txt,7/5/754775bccc6f6d414df7264c2db05c9a49e799ce
+N
+src/hackerrank/HackerRank.java,c/b/cb4a8f30929794f460bc331342742fc319761f43
+V
+&src/amazon/maxteams/SDEAssessment.java,7/5/756bb23a7d31a9d6f86de7f6fc3b02923d52d667
+W
+'src/hackerrank/staircase/Staircase.java,9/0/909b2c36e5eaf953f88e2d4cfc40a9d307aea599

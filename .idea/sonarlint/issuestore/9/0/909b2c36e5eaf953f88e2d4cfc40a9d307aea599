@@ -1,0 +1,16 @@
+
+9
+java:S1643"Use a StringBuilder instead.(ÙŒƒÊ8÷ÛÚÁ«1
+9
+java:S1643"Use a StringBuilder instead.(Åõ¬«8÷ÛÚÁ«1
+c
+java:S1226"AIntroduce a new variable instead of reusing the parameter "step".(–°Œùÿÿÿÿ8Ö™çÁ«1
+^
+java:S1226"AIntroduce a new variable instead of reusing the parameter "step".(ÙŒƒÊ8Ö™çÁ«1
+^
+java:S1226"AIntroduce a new variable instead of reusing the parameter "step".(Åõ¬«8Ö™çÁ«1
+V
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÅüg8ÜÚÁ«1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘ß†Ûûÿÿÿÿ8ƒÜÚÁ«1
+b
+java:S1128"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âşÿÿÿÿ8îãîÁ«1

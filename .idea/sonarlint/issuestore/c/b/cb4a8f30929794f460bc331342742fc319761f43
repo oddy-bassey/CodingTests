@@ -1,0 +1,17 @@
+
+u
+java:S4165p"_Remove this useless assignment; "l" already holds the assigned value along all execution paths.(ÕŒøÚ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(äá˜ú
+W
+java:S1126Y"AReplace this if-then-else statement by a single return statement.(Ž”¶®
+E
+java:S1656p"/Remove or correct this useless self-assignment.(ÕŒøÚ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(®Ñó×
+W	java:S125‘"<This block of commented-out lines of code should be removed.(Â¬ÈÙÿÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(¾ãÎ•þÿÿÿÿ
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(ÚÊ¼’
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ËÞ¥üÿÿÿÿ
+O	java:S106È"9Replace this use of System.out or System.err by a logger.(ŸÑ¥»
+T	java:S106Í"9Replace this use of System.out or System.err by a logger.(Ì¿þ”þÿÿÿÿ
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(õðº–úÿÿÿÿ
+O	java:S106Ô"9Replace this use of System.out or System.err by a logger.(žÅãš

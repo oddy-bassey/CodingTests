@@ -1,0 +1,14 @@
+
+^
+java:S4973K"<Strings and Boxed types should be compared using "equals()".(ü¿Âşøÿÿÿÿ8 ”Ò«1
+X	java:S1074"<Method has 8 parameters, which is greater than 7 authorized.(‹Õúä8Á”Ò«1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(®Ôè¢ûÿÿÿÿ8Â”Ò«1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ì¢Ùùÿÿÿÿ8Â”Ò«1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İÙ Õ8Ã”Ò«1
+C
+java:S1659"&Declare "maxSkill" on a separate line.(ø°¦8Å”Ò«1
+o
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‹Õúä8Ê”Ò«1
+N
+java:S11724"1Remove this unused method parameter "firstValue".(‹Õúä8Ì”Ò«1
