@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62085603-5d85-432e-a05a-197788a37928" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coderbyte/blockConstructor/BlockConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderbyte/blockConstructor/QUESTION.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderbyte/blockConstructor/resources/block_sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderbyte/blockConstructor/resources/mempool.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderbyte/blockConstructor/resources/ques-A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderbyte/blockConstructor/resources/ques-B.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderbyte/blockConstructor/resources/ques-C.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1d68b527a95a4a6ef9becd34f1f05d3026ce27a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1d68b527a95a4a6ef9becd34f1f05d3026ce27a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3abe6587b07840024968444e1c656f37d5daa06e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3abe6587b07840024968444e1c656f37d5daa06e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/fetchItemsToDisplay/FetchItemsToDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrank/fetchItemsToDisplay/FetchItemsToDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderbyte/blockConstructor/BlockConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coderbyte/blockConstructor/BlockConstructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +230,7 @@
       <workItem from="1711726700560" duration="2201000" />
       <workItem from="1711893720220" duration="1306000" />
       <workItem from="1711895042362" duration="93000" />
-      <workItem from="1712863541143" duration="5843000" />
+      <workItem from="1712863541143" duration="6515000" />
     </task>
     <servers />
   </component>
