@@ -8,9 +8,9 @@ java:S1659
 E
 java:S1481"/Remove this unused "startIndex" local variable.(İÕ¤Ö
 h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¡ü½şÿÿÿÿ
-N	java:S106!"9Replace this use of System.out or System.err by a logger.(êõİ
-S	java:S106%"9Replace this use of System.out or System.err by a logger.( Ä¾úıÿÿÿÿ
-@
-java:S2185%"%Remove this silly call to "Math.ceil"( Ä¾úıÿÿÿÿ
-N	java:S106,"9Replace this use of System.out or System.err by a logger.(¾¼Áï
+@	java:S106!"+Replace this use of System.out by a logger.(êõİ
+E	java:S106%"+Replace this use of System.out by a logger.( Ä¾úıÿÿÿÿ
+F
+java:S2185%"+Remove this unnecessary call to "Math.ceil"( Ä¾úıÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(¾¼Áï
 Q	java:S125+"<This block of commented-out lines of code should be removed.(ÅÉ²

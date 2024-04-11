@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë¦Ñ¸şÿÿÿÿ8å¨É÷ì1J$46b7cb6a-0174-42fd-95aa-4d29d864070d
+”
+java:S20956"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(æù§…ıÿÿÿÿ8³¡Í÷ì1J$e4f96d6b-c456-44d2-849b-530211ea214b
+m	java:S106"+Replace this use of System.out by a logger.(ñŞ¢ğ8»¡Í÷ì1J$df3fe832-a402-46ea-ba11-325ffca44ae3
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8µéÍ÷ì1
+j
+java:S1068%"'Remove this unused "fee" private field.(ß©âú8É¡Í÷ì1J$921d6be2-cd4a-4cd6-8924-000c99f682d7

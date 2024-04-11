@@ -1,0 +1,11 @@
+
+w
+java:S3740*"/Provide the parametrized type for this generic.(¶¥ÁÀúÿÿÿÿ8Œ¯à¼1J$68ab28ba-ac3f-435a-9c0a-642253f855c4
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¡íçüÿÿÿÿ8Œ¯à¼1J$baea03bd-994d-4839-9f7c-81285af33e1c
+d
+java:S1643C"Use a StringBuilder instead.( öÈşşÿÿÿÿ8Œ¯à¼1J$748c6a2b-7093-4f55-8075-d26d973408a0
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³í“Íúÿÿÿÿ8¯à¼1J$763a8241-4cf4-4892-b747-4f3e6949305e
+¯
+java:S1130L"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ŞÉ§à¼1J$8a0bebf2-21d7-421a-ada9-fb8e81032a43
+r	java:S106N"+Replace this use of System.out by a logger.(úùÈÑùÿÿÿÿ8Šû£à¼1J$849a6ef7-063b-4db6-be66-74cc0619de8b
+~	java:S125M"<This block of commented-out lines of code should be removed.(ú„œñ8ûÃ›à¼1J$3d0d8ff1-c208-47d3-8442-a305b7ae5f84
