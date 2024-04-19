@@ -4,31 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class BlockConstructor {
-    public static void main (String[] args) {
-        /* create varriables to hold the following data
-         *
-         * mempool.csv file path
-         * maxWeight
-         * read map of transactions
-         * list of sorted txIds
-         * list of selected txIds
-         *
-         */
-        String filePath = "mempool.csv";
-        final int maxWeight = 4000000;
 
-        try{
-            Map<String, Transaction> transactions = parseFile(filePath);
-            List<String> sortedTxIds = sortTransactions(transactions);
-            List<String> selectedTxIds = selectTransactions(transactions, sortedTxIds, maxWeight);
-
-            for(String txid : selectedTxIds) {
-                System.out.println(txid);
-            }
-        }catch(Exception ex) {
-            ex.printStackTrace();
-        }
-    }
 
     // Transaction class object to hold data
     static class Transaction {

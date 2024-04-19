@@ -13,6 +13,6 @@ L
 java:S1481"/Remove this unused "lowestTemp" local variable.(â‰áê8÷µšëª1
 L
 java:S1197 "*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ºÔüêª1
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ó£¹ÿÿÿÿÿ8¼Ôüêª1
-U	java:S106("9Replace this use of System.out or System.err by a logger.(’àÑ“8¼Ôüêª1
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(ú…‡ì8¼Ôüêª1
+L	java:S106'"+Replace this use of System.out by a logger.(ó£¹ÿÿÿÿÿ8¼Ôüêª1
+G	java:S106("+Replace this use of System.err by a logger.(’àÑ“8¼Ôüêª1
+G	java:S106+"+Replace this use of System.out by a logger.(ú…‡ì8¼Ôüêª1
