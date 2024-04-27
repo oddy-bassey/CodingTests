@@ -1,0 +1,15 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÏ€¿øÿÿÿÿ8Ù«áúñ1J$75abffe3-145b-46c2-b2d7-d808d88f432b
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Á‰¥úÿÿÿÿ8å«áúñ1J$073b5257-5015-4279-8ee3-14e072e6affd
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß²Á˜ÿÿÿÿÿ8é«áúñ1J$c1d2f9df-b458-4ff6-ba0d-8f402f827eeb
+m	java:S1062"+Replace this use of System.out by a logger.(¢àóÄ8í«áúñ1J$2cf341b0-3964-496a-b1e9-903751238a82
+‚
+java:S1854;":Remove this useless assignment to local variable "result".(«¿Æ„ÿÿÿÿÿ8ï«áúñ1J$74ba491f-0016-4920-8861-ae77ee9767bc
+s
+java:S1481;"+Remove this unused "result" local variable.(«¿Æ„ÿÿÿÿÿ8ô«áúñ1J$41b084bb-2945-4ac9-bec8-3ee0d57e4457
+m	java:S106>"+Replace this use of System.out by a logger.(Æ–Í¹8ô«áúñ1J$f2dee3ed-5e8c-4a35-bd10-ba55b0507734
+‚
+java:S1854D":Remove this useless assignment to local variable "result".(µ¼èûüÿÿÿÿ8õ«áúñ1J$65bcd3d6-4174-4cf3-ba65-4f6a40f2b040
+s
+java:S1481D"+Remove this unused "result" local variable.(µ¼èûüÿÿÿÿ8ø«áúñ1J$aafde856-44a6-44a6-b5a6-7c1bcd6b4bd6
+r	java:S106G"+Replace this use of System.out by a logger.(£İÍÑûÿÿÿÿ8ø«áúñ1J$ef0566d8-5a2f-4e7d-948a-fb2f83d77b6e

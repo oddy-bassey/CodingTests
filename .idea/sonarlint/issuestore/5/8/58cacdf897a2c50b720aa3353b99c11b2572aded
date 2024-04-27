@@ -1,7 +1,18 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÏ€¿øÿÿÿÿ8Ï³Çñ1J$cf7456c9-2f49-4ab3-bf87-22e4d512d79a
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÏ€¿øÿÿÿÿ8Ï³Çñ1J$905a8dc6-5aab-4f52-b8ae-35423c5e4d34
 ”
-java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(§Á‰¥úÿÿÿÿ8Ğ³Çñ1J$3935a561-92b8-4629-a32b-a65490c8433f
-•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Á‰¥úÿÿÿÿ8ß³Çñ1J$acc2fe0d-5dca-4a26-8588-5bbfd999310b
-r	java:S106"+Replace this use of System.out by a logger.(ñ×Ñşÿÿÿÿ8ä³Çñ1J$2f505011-6fe6-4e6e-8d04-c44883829008
-m	java:S106 "+Replace this use of System.out by a logger.(şÅÜ8–±İòñ1J$d3d7638d-e416-41e6-b333-099b80d08304
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(§Á‰¥úÿÿÿÿ8Ğ³Çñ1J$44bccd85-2b2e-4a61-8966-3457201960e1
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Á‰¥úÿÿÿÿ8ß³Çñ1J$584ff549-d678-43ff-902f-6b3d2904a68f
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß²Á˜ÿÿÿÿÿ8Çèªúñ1J$b5dcfad9-9703-43f4-9701-e655d75198fa
+r	java:S1065"+Replace this use of System.out by a logger.(ñ×Ñşÿÿÿÿ8ä³Çñ1J$af5ceb24-8fd4-4ba2-931f-f89407ed3046
+m	java:S1066"+Replace this use of System.out by a logger.(şÅÜ8–±İòñ1J$2e1dd2a0-b53b-4213-928f-10ad793ecf1a
+}
+java:S1854?":Remove this useless assignment to local variable "result".(¸Íë8Œ™™úñ1J$fe5f32a3-261f-4141-9374-3b25bc83de9f
+n
+java:S1481?"+Remove this unused "result" local variable.(¸Íë8™™úñ1J$aa66365a-7f3c-4f8b-916a-7fce6ebfa20d
+m	java:S106B"+Replace this use of System.out by a logger.(Æ–Í¹8İô—úñ1J$c712465c-7a40-4287-9e15-951983daf78e
+‚
+java:S1854H":Remove this useless assignment to local variable "result".(†ƒÃÓÿÿÿÿÿ8«À¬úñ1J$766c5191-e53a-453e-9de6-8b2bc40c14b4
+s
+java:S1481H"+Remove this unused "result" local variable.(†ƒÃÓÿÿÿÿÿ8æ¬úñ1J$dfa6527c-a431-4860-b9c7-c76585e6572f
+r	java:S106K"+Replace this use of System.out by a logger.(£İÍÑûÿÿÿÿ8­À¬úñ1J$223c3b94-68ed-4a6d-b12e-b53fa1508a44
