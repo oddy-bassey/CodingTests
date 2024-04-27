@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62085603-5d85-432e-a05a-197788a37928" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coderbyte/stringChallenge/StringChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32874f91870f49b9dafa81936fb3a2c6002cc77f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32874f91870f49b9dafa81936fb3a2c6002cc77f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e22287b746eda4d3dafcf33a4f4ed8372443128" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/e/7e22287b746eda4d3dafcf33a4f4ed8372443128" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58cacdf897a2c50b720aa3353b99c11b2572aded" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58cacdf897a2c50b720aa3353b99c11b2572aded" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderbyte/stringChallenge/StringChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coderbyte/stringChallenge/StringChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,33 +39,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/revoltcode/Documents/IdeaProjects/CodingTests/src/coderbyte/weightedPath&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/revoltcode/Documents/IdeaProjects/CodingTests/src/coderbyte/stringChallenge",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/coderbyte/stringChallenge" />
       <recent name="$PROJECT_DIR$/src/coderbyte/weightedPath" />
       <recent name="$PROJECT_DIR$/src/coderbyte/blockConstructor/resources" />
       <recent name="$PROJECT_DIR$/src/coderbyte/blockConstructor" />
       <recent name="$PROJECT_DIR$/src/hackerrank/staircase" />
-      <recent name="$PROJECT_DIR$/src/amazon/maxteams" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/coderbyte/blockConstructor/resources" />
@@ -251,7 +248,9 @@
       <workItem from="1713216252491" duration="2488000" />
       <workItem from="1713519926309" duration="3370000" />
       <workItem from="1713613105483" duration="519000" />
-      <workItem from="1714107149341" duration="1834000" />
+      <workItem from="1714107149341" duration="2486000" />
+      <workItem from="1714200246904" duration="439000" />
+      <workItem from="1714200708958" duration="540000" />
     </task>
     <servers />
   </component>
@@ -310,7 +309,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/coderbyte/stringChallenge/StringChallenge.java</url>
-          <line>32</line>
+          <line>29</line>
           <properties class="coderbyte.stringChallenge.StringChallenge" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -541,31 +540,6 @@
           <url>file://$PROJECT_DIR$/src/hackerrank/minMaxSum/MinMaxSum.java</url>
           <line>33</line>
           <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/coderbyte/stringChallenge/StringChallenge.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/coderbyte/stringChallenge/StringChallenge.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/coderbyte/stringChallenge/StringChallenge.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="147" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/coderbyte/stringChallenge/StringChallenge.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="148" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/coderbyte/stringChallenge/StringChallenge.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="149" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
